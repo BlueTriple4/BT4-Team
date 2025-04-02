@@ -1,4 +1,4 @@
-# Changelog for v1.2
+# Changelog for v7.5
 
 - Fixed issue with module compatibility.
 - Improved performance.
