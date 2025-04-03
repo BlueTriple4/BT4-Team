@@ -1,4 +1,4 @@
-# New Update v7.0
+# New Update v7.5
 
 - Fixed issue with module compatibility.
 - Improved performance.
